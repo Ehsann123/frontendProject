@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\views\\accountcontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:views\\accountcontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\views\\accountcontroller1\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:views\\accountcontroller1\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\views\\accountcontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:views\\accountcontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|c:\\users\\ehsan\\source\\repos\\frontendproject\\migrations\\20240828084648_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9EDAA7-A62E-4D33-BF07-C404B42218A1}|frontendProject.csproj|solutionrelative:migrations\\20240828084648_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:43:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:40:47.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\AccountController1\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\AccountController1\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\AccountController1\\Login.cshtml",
+              "RelativeToolTip": "Views\\AccountController1\\Login.cshtml",
+              "ViewState": "AgIAAAUAAACAMzMzMzMrwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T09:08:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABWPRYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:54:45.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:19:54.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAACAMzMzMzMrwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:26:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:07:42.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController1.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Controllers\\AccountController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController1.cs",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Controllers\\AccountController1.cs",
+              "RelativeToolTip": "Controllers\\AccountController1.cs",
+              "ViewState": "AgIAAAoAAACALzMzMzMvwAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:03:42.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\AccountController1\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\AccountController1\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\AccountController1\\Register.cshtml",
+              "RelativeToolTip": "Views\\AccountController1\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T09:08:17.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\AccountController1\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Views\\AccountController1\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Views\\AccountController1\\Logout.cshtml",
+              "RelativeToolTip": "Views\\AccountController1\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T09:09:14.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:54:31.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240828084648_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Migrations\\20240828084648_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240828084648_Initial.cs",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Migrations\\20240828084648_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240828084648_Initial.cs",
+              "ViewState": "AgIAAAYAAAAAMTMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:46:49.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T08:22:08.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ehsan\\source\\repos\\frontendProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:15:00.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
